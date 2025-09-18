@@ -45,7 +45,7 @@ export default function About() {
 
             <div className="flex items-center space-x-2 text-sm text-muted-foreground">
               <GraduationCap className="w-4 h-4" />
-              <span>IIT Mandi • Robotics & AI</span>
+              <span>IIT Mandi • AI & Robotics</span>
             </div>
           </motion.div>
 
